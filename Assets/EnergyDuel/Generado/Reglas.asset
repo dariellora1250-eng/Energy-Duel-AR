@@ -3,17 +3,24 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_Name: Reglas
+  m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 431538aa90ae2b2c40d17928558c228c, type: 3}
-  nombre: 
-  matricula: 
+  m_Name: Reglas
+  m_EditorClassIdentifier: 
+  nombre: Dariel Lora
+  matricula: 1-24-0004
   espadaHasta: 0.68
   escudoDesde: 0.82
   confirmarGesto: 0.11
   vigencia: 0.22
   retencionVisual: 0.35
+  desvanecer: 0.16
+  edadMaxima: 0.44
   olvido: 1.4
   calibracion: 0.45
   suavizado: 20
@@ -27,3 +34,19 @@ MonoBehaviour:
   recorridoMinimo: 0.022
   reinicio: 1.2
   estela: 1
+  giroDuelo: 20
+  tiempoDuelo: 0.15
+  giroBloqueo: 50
+  tiempoBloqueo: 0.25
+  tiempoSeleccion: 0.75
+  penalizacionEspada: 3
+  penalizacionEscudo: 2
+  desgasteChoqueEspadas: 10
+  desgastePresionSegundo: 20
+  demoraPresion: 0.35
+  desgasteEspadaEscudo: 20
+  desgasteEscudoBloqueando: 8
+  desgasteChoqueEscudos: 5
+  giroChoqueEspadas: 30
+  giroChoqueEscudos: 75
+  tiempoChoqueEscudos: 0.42
