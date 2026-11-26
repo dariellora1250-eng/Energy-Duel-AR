@@ -1,0 +1,51 @@
+# Carpetas regeneradas por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Bb]uild/
+/[Bb]uilds/
+/ExportedObj/
+/BuildReports/
+/.vs/
+/.vscode/
+/.idea/
+/.gradle/
+/.consulo/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.suo
+*.opendb
+*.VC.db
+*.unitypackage
+*.apk
+*.aab
+*.app
+sysinfo.txt
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
+# Archivo local opcional para resolver MediaPipe en otra máquina.
+/Packages/Local/*.tgz
+
+
+# Paquete local de MediaPipe (no publicar)
+/Packages/Local/*.tgz
+# Recursos originales empaquetados de audio
+/Assets/musica/*.zip
+*.exe
+*.dll
+*.pdb
+*.token
+*.pem
+*.key
+.env
+.env.*

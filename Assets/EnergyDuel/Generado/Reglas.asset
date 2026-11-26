@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_Name: Reglas
+  m_Script: {fileID: 11500000, guid: 431538aa90ae2b2c40d17928558c228c, type: 3}
+  nombre: 
+  matricula: 
+  espadaHasta: 0.68
+  escudoDesde: 0.82
+  confirmarGesto: 0.11
+  vigencia: 0.22
+  retencionVisual: 0.35
+  olvido: 1.4
+  calibracion: 0.45
+  suavizado: 20
+  zonaJ1: {x: 0.3, y: 0.48}
+  zonaJ2: {x: 0.7, y: 0.48}
+  radioZona: 0.066
+  vidaInicial: 100
+  dano: 10
+  intervalo: 0.48
+  velocidadMinima: 0.24
+  recorridoMinimo: 0.022
+  reinicio: 1.2
+  estela: 1
